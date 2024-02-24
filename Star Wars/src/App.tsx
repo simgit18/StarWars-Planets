@@ -8,9 +8,8 @@ function App() {
   return (
     <main className='flex h-screen'>
 
-<div>
       <Cards />
-    </div>
+
     </main>
   )
 }
